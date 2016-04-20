@@ -1,0 +1,5 @@
+vendor/*
+.idea/*
+app/cache/volt/*
+app/config/config.yml
+!app/cache/volt/.gitkeep
